@@ -1,0 +1,8 @@
+2019-04-05T21:17:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-includes\widgets\class-wp-nav-menu-widget.php في السطر 17
+
+2019-04-05T21:19:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-admin\includes\ajax-actions.php في السطر 22
+
+2019-04-05T22:28:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-content\plugins\better-wp-security\core\modules\salts\active.php في السطر 2
+
+2019-04-05T22:30:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-content\plugins\ocean-extra\includes\widgets\custom-menu.php في السطر 9
+

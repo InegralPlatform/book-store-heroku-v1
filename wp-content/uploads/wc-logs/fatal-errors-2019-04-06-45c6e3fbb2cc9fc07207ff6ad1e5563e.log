@@ -1,0 +1,10 @@
+2019-04-06T00:20:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-includes\widgets\class-wp-widget-media-image.php في السطر 17
+
+2019-04-06T00:27:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-content\plugins\elementor\modules\page-templates\module.php في السطر 13
+
+2019-04-06T00:30:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-admin\custom-header.php في السطر 14
+
+2019-04-06T02:25:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-content\plugins\elementor\core\base\db-upgrades-manager.php في السطر 7
+
+2019-04-06T02:58:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-admin\custom-header.php في السطر 14
+

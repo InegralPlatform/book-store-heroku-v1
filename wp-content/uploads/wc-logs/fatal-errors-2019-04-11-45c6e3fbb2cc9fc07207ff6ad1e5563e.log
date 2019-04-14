@@ -1,0 +1,4 @@
+2019-04-11T14:23:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php في السطر 30
+
+2019-04-11T14:29:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\xampp\htdocs\wordpress-ar\wp-content\themes\oceanwp\inc\plugins\class-tgm-plugin-activation.php في السطر 3706
+
